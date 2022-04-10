@@ -1,6 +1,7 @@
 export { default as Hero } from '../../components/Hero.vue'
 export { default as LargeCard } from '../../components/LargeCard.vue'
 export { default as LargeCardDisplay } from '../../components/LargeCardDisplay.vue'
+export { default as Nav } from '../../components/Nav.vue'
 export { default as SmallCard } from '../../components/SmallCard.vue'
 export { default as SmallCardDisplay } from '../../components/SmallCardDisplay.vue'
 
