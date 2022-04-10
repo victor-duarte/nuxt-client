@@ -9,3 +9,4 @@ You can directly use them in pages and other components without the need to impo
 - `<Hero>` | `<hero>` (components/Hero.vue)
 - `<LargeCard>` | `<large-card>` (components/LargeCard.vue)
 - `<LargeCardDisplay>` | `<large-card-display>` (components/LargeCardDisplay.vue)
+- `<SmallCardDisplay>` | `<small-card-display>` (components/SmallCardDisplay.vue)
