@@ -1,4 +1,5 @@
 export { default as Hero } from '../../components/Hero.vue'
+export { default as LargeCardDisplay } from '../../components/LargeCardDisplay.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
