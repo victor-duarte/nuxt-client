@@ -1,5 +1,12 @@
 # Nuxt Client
 
+# Overview
+Welcome to the complete Nuxt JS crash course by Laith Harb.
+
+In this crash course we will build a complete project using Nuxt JS. In the meanwhile we will talk about components, pages, routing, vuex, state, getters, mutations, plugins, fetch, async and much more!
+
+[GitHub repo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3F2ZHBjeW9EZzZGb3NGaWJmejBnUzg5RXdGQXxBQ3Jtc0tsR0ltdnBuOXBSTGhLZWtOSkhsVld6aVFGTzNmNU9LZWxFT2h5YTdPalpMWVR1RHdGN0NGR0N5T3BuSGdnQmJoam1McHZ4X3llMVJTdTl5TkREdnQxMUt5REZrb1RDYmVaV1ZxY0xWUENtVUl3Rm1taw&q=https%3A%2F%2Fgithub.com%2Fharblaith7%2FNuxt-Crash-Course)
+
 ## Build Setup
 
 ```bash
