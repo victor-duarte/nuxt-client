@@ -8,6 +8,9 @@
   "LargeCardDisplay": {
     "description": "Auto imported from components/LargeCardDisplay.vue"
   },
+  "SmallCard": {
+    "description": "Auto imported from components/SmallCard.vue"
+  },
   "SmallCardDisplay": {
     "description": "Auto imported from components/SmallCardDisplay.vue"
   }

@@ -1,7 +1,13 @@
 <template>
   <div class="container">
     <h4 class="header">{{ cardsSection.title }}</h4>
-    <div class="card-container"></div>
+    <div class="card-container">
+      <SmallCard
+        :card="card"
+        :key="card.id"
+        v-for="card in cardsSection.cards"
+      />
+    </div>
   </div>
 </template>
 
