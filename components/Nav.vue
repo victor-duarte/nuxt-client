@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark padding">
-    <a class="navbar-brand" href="/">Firengii</a>
+    <NuxtLink class="navbar-brand" to="/">Firengii</NuxtLink>
     <button
       aria-controls="navbarSupportedContent"
       aria-expanded="false"
@@ -15,14 +15,14 @@
     <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a href="/products" class="nav-link">
+          <NuxtLink to="/products" class="nav-link">
             Products <span class="sr-only">(current)</span>
-          </a>
+          </NuxtLink>
         </li>
         <li class="nav-item active">
-          <a href="/my-items" class="nav-link">
+          <NuxtLink to="/my-items" class="nav-link">
             My Items <span class="sr-only">(current)</span>
-          </a>
+          </NuxtLink>
         </li>
       </ul>
     </div>
