@@ -46,7 +46,7 @@
     </div>
   </div>
   <div v-else class="container mt-5">
-    <p>Product {{ $route.params.id }} not found.</p>
+    <PageNotFound />
   </div>
 </template>
 

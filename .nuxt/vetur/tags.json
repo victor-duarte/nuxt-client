@@ -11,6 +11,9 @@
   "Nav": {
     "description": "Auto imported from components/Nav.vue"
   },
+  "PageNotFound": {
+    "description": "Auto imported from components/PageNotFound.vue"
+  },
   "SmallCard": {
     "description": "Auto imported from components/SmallCard.vue"
   },

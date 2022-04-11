@@ -1,5 +1,12 @@
 [
   {
+    "name": "my-items",
+    "path": "/my-items",
+    "component": "/Users/victorduarte/Documents/Projects/vduarte/nuxt-client/pages/my-items.vue",
+    "chunkName": "pages/my-items",
+    "_name": "_1ea11a8b"
+  },
+  {
     "name": "products",
     "path": "/products",
     "component": "/Users/victorduarte/Documents/Projects/vduarte/nuxt-client/pages/products/index.vue",

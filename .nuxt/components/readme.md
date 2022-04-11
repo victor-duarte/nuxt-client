@@ -10,5 +10,6 @@ You can directly use them in pages and other components without the need to impo
 - `<LargeCard>` | `<large-card>` (components/LargeCard.vue)
 - `<LargeCardDisplay>` | `<large-card-display>` (components/LargeCardDisplay.vue)
 - `<Nav>` | `<nav>` (components/Nav.vue)
+- `<PageNotFound>` | `<page-not-found>` (components/PageNotFound.vue)
 - `<SmallCard>` | `<small-card>` (components/SmallCard.vue)
 - `<SmallCardDisplay>` | `<small-card-display>` (components/SmallCardDisplay.vue)
