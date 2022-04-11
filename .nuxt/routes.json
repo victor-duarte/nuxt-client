@@ -3,21 +3,18 @@
     "name": "products",
     "path": "/products",
     "component": "/Users/victorduarte/Documents/Projects/vduarte/nuxt-client/pages/products/index.vue",
-    "chunkName": "pages/products/index",
-    "_name": "_6a6b78da"
+    "chunkName": "pages/products/index"
   },
   {
     "name": "products-id",
     "path": "/products/:id",
     "component": "/Users/victorduarte/Documents/Projects/vduarte/nuxt-client/pages/products/_id.vue",
-    "chunkName": "pages/products/_id",
-    "_name": "_3d2a0ebb"
+    "chunkName": "pages/products/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/victorduarte/Documents/Projects/vduarte/nuxt-client/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_ad75f854"
+    "chunkName": "pages/index"
   }
 ]
